@@ -1,7 +1,7 @@
 pipeline {
     agent any 
     stages {
-        stage('Build') { 
+        stage('Build1') { 
             steps {
                 git changelog: false, poll: false, url: 'https://github.com/GDIATTA/CI_CD.git' 
             }
