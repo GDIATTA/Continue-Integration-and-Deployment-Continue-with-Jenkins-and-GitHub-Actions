@@ -29,3 +29,15 @@ Use the recommended official jenkins/jenkins image from the Docker Hub repositor
  Note : A new jenkins/jenkins image is published each time a new release of Jenkins Docker is published. You can see a list of previously published versions of the jenkins/jenkins image on the tags page.
 
  **On Windows**
+ The Jenkins project provides a Linux container image, not a Windows container image. Be sure that your Docker for Windows installation is configured to run Linux Containers rather than Windows Containers. Refer to the Docker documentation for instructions to switch to Linux containers. Once configured to run Linux Containers, the steps are:
+> 1. Open up a command prompt window and similar to the macOS and Linux instructions above do the following: <br>
+> 2. Create a bridge network in Docker <br>
+
+![Capture d’écran 2024-08-31 235031](https://github.com/user-attachments/assets/d65ed562-aa17-4cd3-8fef-8c6f5933ad35)
+
+3. Run a **jenkins/jenkins** Docker image
+
+![Capture d’écran 2024-09-01 001215](https://github.com/user-attachments/assets/4da60e3e-7177-437c-98e8-09aea3782c91)
+
+**Post-installation setup wizard**
+After downloading, installing and running Jenkins using one of the procedures above (except for installation with Jenkins Operator), the post-installation setup wizard begins.
