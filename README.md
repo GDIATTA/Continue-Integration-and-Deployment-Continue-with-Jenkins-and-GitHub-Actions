@@ -48,6 +48,8 @@ This setup wizard takes you through a few quick "one-off" steps to unlock Jenkin
 When you first access a new Jenkins controller, you are asked to unlock it using an automatically-generated password.
 
 ![Capture d’écran 2024-09-01 002228](https://github.com/user-attachments/assets/4c4df1ab-3ce3-4c01-b16d-1d7805346f97)
+
+-1. Browse to http://localhost:8080 (or whichever port you configured for Jenkins when installing it) and wait until the Unlock Jenkins page appears.
 ![Capture d’écran 2024-09-01 002326](https://github.com/user-attachments/assets/8ee2ec3b-7ad4-455b-b0a4-9ffc9fb373da)
 ![Capture d’écran 2024-09-01 002421](https://github.com/user-attachments/assets/2fa924aa-a923-416b-95f8-b82b636f1fe8)
 ![Capture d’écran 2024-09-01 003144](https://github.com/user-attachments/assets/90c5c165-ab41-462c-b26d-ae5efd28706a)
