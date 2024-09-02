@@ -41,3 +41,14 @@ Use the recommended official jenkins/jenkins image from the Docker Hub repositor
 
 **Post-installation setup wizard** <br>
 After downloading, installing and running Jenkins using one of the procedures above (except for installation with Jenkins Operator), the post-installation setup wizard begins. <br>
+
+This setup wizard takes you through a few quick "one-off" steps to unlock Jenkins, customize it with plugins and create the first administrator user through which you can continue accessing Jenkins. <br>
+
+**Unlocking Jenkins** <br>
+When you first access a new Jenkins controller, you are asked to unlock it using an automatically-generated password.
+
+![Capture d’écran 2024-09-01 002228](https://github.com/user-attachments/assets/4c4df1ab-3ce3-4c01-b16d-1d7805346f97)
+![Capture d’écran 2024-09-01 002326](https://github.com/user-attachments/assets/8ee2ec3b-7ad4-455b-b0a4-9ffc9fb373da)
+
+
+
