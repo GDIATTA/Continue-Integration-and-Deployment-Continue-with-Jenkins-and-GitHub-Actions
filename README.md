@@ -67,11 +67,19 @@ When you first access a new Jenkins controller, you are asked to unlock it using
  
 >  2. Select the **plugin** to set up **docker plugin** <br>
  ![Capture d’écran 2024-09-01 003616](https://github.com/user-attachments/assets/3b50676f-b07a-417d-8b35-3209a79081e6)
-![Capture d’écran 2024-09-01 003616](https://github.com/user-attachments/assets/3b50676f-b07a-417d-8b35-3209a79081e6)
 ![Capture d’écran 2024-09-01 012055](https://github.com/user-attachments/assets/811be96e-d2d3-4a50-bdb3-633615e95224)
 
->  3. Check the plugin
->  4. 
+>  3. Once the plugin is installed, select **Clouds** and **New cloud**. <br>
+
+![Capture d’écran 2024-09-01 012234](https://github.com/user-attachments/assets/b736bd45-5de7-4114-93e0-155c06a22723)
+
+>  4. Go to the terminal to set up the new container which contains the worker image <br>
+
+![Capture d’écran 2024-09-01 012500](https://github.com/user-attachments/assets/3d22f6a9-ab67-4bdf-b5b2-e39aa8908660)
+
+>  5. Fullfil as following : <br>
+![Capture d’écran 2024-09-01 012335](https://github.com/user-attachments/assets/4c07222f-c980-4a2c-b9a5-e65a1d45ba7c)
+
 
 
 
