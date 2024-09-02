@@ -53,6 +53,7 @@ When you first access a new Jenkins controller, you are asked to unlock it using
 ![Capture d’écran 2024-09-01 002326](https://github.com/user-attachments/assets/8ee2ec3b-7ad4-455b-b0a4-9ffc9fb373da)
 ![Capture d’écran 2024-09-01 002421](https://github.com/user-attachments/assets/2fa924aa-a923-416b-95f8-b82b636f1fe8)
 ![Capture d’écran 2024-09-01 003144](https://github.com/user-attachments/assets/90c5c165-ab41-462c-b26d-ae5efd28706a)
+![Capture d’écran 2024-09-01 003224](https://github.com/user-attachments/assets/aa63a3e5-86d6-47be-9029-7739b08dd5f7)
 
 
 
