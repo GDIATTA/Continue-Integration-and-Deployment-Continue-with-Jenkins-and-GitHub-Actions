@@ -80,11 +80,14 @@ When you first access a new Jenkins controller, you are asked to unlock it using
 >  5. Fullfill as following. Test the connection when you put **Docker Host URI** <br>
 
 ![Capture d’écran 2024-09-01 012335](https://github.com/user-attachments/assets/4c07222f-c980-4a2c-b9a5-e65a1d45ba7c)
-![Capture d’écran 2024-09-01 012811](https://github.com/user-attachments/assets/b6fcde82-9a38-4e97-92cd-23f9bc3411c8)
-![Capture d’écran 2024-09-01 013018](https://github.com/user-attachments/assets/5ac216f5-20ef-409b-b379-7a436d26dee8)
 ![Capture d’écran 2024-09-01 013224](https://github.com/user-attachments/assets/125af4fb-9d4b-4d60-83eb-90e13e72102a)
 
-> 6. 
+> 6. Select **Add Docker Template**: <br>
+
+![Capture d’écran 2024-09-01 014607](https://github.com/user-attachments/assets/ce2cd2e8-1d16-45b1-972a-eb8d25e31a9a)
+![Capture d’écran 2024-09-01 015136](https://github.com/user-attachments/assets/76cbf3ae-0f34-4d50-a79a-b0938f6c7dc1)
+![Capture d’écran 2024-09-01 015222](https://github.com/user-attachments/assets/bff5d86d-b4f5-4ba8-998b-e74fd8a6094f)
+![Capture d’écran 2024-09-01 015302](https://github.com/user-attachments/assets/d5b469a5-8b98-4d95-bc57-708ff3977c9e)
 
 
 
