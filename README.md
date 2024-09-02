@@ -35,7 +35,7 @@ Use the recommended official jenkins/jenkins image from the Docker Hub repositor
 
 ![Capture d’écran 2024-08-31 235031](https://github.com/user-attachments/assets/d65ed562-aa17-4cd3-8fef-8c6f5933ad35)
 
-3. Run a **jenkins/jenkins** Docker image <br>
+> 3. Run a **jenkins/jenkins** Docker image <br>
 
 ![Capture d’écran 2024-09-01 001215](https://github.com/user-attachments/assets/4da60e3e-7177-437c-98e8-09aea3782c91)
 
@@ -54,6 +54,25 @@ When you first access a new Jenkins controller, you are asked to unlock it using
 ![Capture d’écran 2024-09-01 002421](https://github.com/user-attachments/assets/2fa924aa-a923-416b-95f8-b82b636f1fe8)
 ![Capture d’écran 2024-09-01 003144](https://github.com/user-attachments/assets/90c5c165-ab41-462c-b26d-ae5efd28706a)
 ![Capture d’écran 2024-09-01 003224](https://github.com/user-attachments/assets/aa63a3e5-86d6-47be-9029-7739b08dd5f7)
+
+#### How to set up an agent slave connecting with the controler(Master)** <br>
+ Why should we set up this agent ? Can't we just work only with the **Master** ? <br>
+ Yes absolutely,it's possible to work solely with the **master**. However, It's not recommanded.If you need to run a parallel tasks, the **master** alone won't suffice. Because the master processes task sequentially. They help distribute the workload, allowing jobs to run faster and more efficiently in collaboration with the **Master**. <br>
+
+ **Get started**
+ To do this, we can adopt the approch of cloud, meaning we set up the agent from the Cloud, in particular in docker.
+ > 1. Go to **Jenkins Administer** <br>
+
+ ![Capture d’écran 2024-09-01 003616](https://github.com/user-attachments/assets/3b50676f-b07a-417d-8b35-3209a79081e6)
+ 
+>  2. Select the **plugin** to set up **docker plugin** <br>
+
+![Capture d’écran 2024-09-01 003524](https://github.com/user-attachments/assets/6948213e-c7e7-4ed3-b2e2-bb4b5dacd003)
+
+>  3. Check the plugin
+![Capture d’écran 2024-09-01 003616](https://github.com/user-attachments/assets/3b50676f-b07a-417d-8b35-3209a79081e6)
+![Capture d’écran 2024-09-01 012055](https://github.com/user-attachments/assets/811be96e-d2d3-4a50-bdb3-633615e95224)
+
 
 
 
