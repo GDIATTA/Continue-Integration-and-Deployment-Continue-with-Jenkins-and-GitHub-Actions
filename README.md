@@ -64,6 +64,7 @@ When you first access a new Jenkins controller, you are asked to unlock it using
  > 1. Go to **Jenkins Administer** <br>
 
  ![Capture d’écran 2024-09-01 003616](https://github.com/user-attachments/assets/3b50676f-b07a-417d-8b35-3209a79081e6)
+ ![Capture d’écran 2024-09-01 003524](https://github.com/user-attachments/assets/6948213e-c7e7-4ed3-b2e2-bb4b5dacd003)
  
 >  2. Select the **plugin** to set up **docker plugin** <br>
 
@@ -72,7 +73,7 @@ When you first access a new Jenkins controller, you are asked to unlock it using
 
 >  3. Check the plugin
 >  4. 
-![Capture d’écran 2024-09-01 003524](https://github.com/user-attachments/assets/6948213e-c7e7-4ed3-b2e2-bb4b5dacd003)
+
 
 
 
