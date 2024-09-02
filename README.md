@@ -89,6 +89,13 @@ When you first access a new Jenkins controller, you are asked to unlock it using
 ![Capture d’écran 2024-09-01 015222](https://github.com/user-attachments/assets/bff5d86d-b4f5-4ba8-998b-e74fd8a6094f)
 ![Capture d’écran 2024-09-01 015302](https://github.com/user-attachments/assets/d5b469a5-8b98-4d95-bc57-708ff3977c9e)
 
+7. Go back in your dashboard and execute a job by the agent installed now. <br>
+
+![Capture d’écran 2024-09-01 015652 - Copie](https://github.com/user-attachments/assets/87387dbe-2004-4f8b-a1b3-7363751dd006)
+![Capture d’écran 2024-09-01 015652](https://github.com/user-attachments/assets/63d40372-e83c-4494-9e5b-a745b1099945)
+![Capture d’écran 2024-09-01 015720 - Copie](https://github.com/user-attachments/assets/638d1a6d-5090-4427-85ab-05ecb755e540)
+![Capture d’écran 2024-09-01 015831](https://github.com/user-attachments/assets/deeb5ceb-6904-438a-aff4-e3d184b6b14a)
+
 
 
 
