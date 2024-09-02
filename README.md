@@ -77,8 +77,14 @@ When you first access a new Jenkins controller, you are asked to unlock it using
 
 ![Capture d’écran 2024-09-01 012500](https://github.com/user-attachments/assets/3d22f6a9-ab67-4bdf-b5b2-e39aa8908660)
 
->  5. Fullfil as following : <br>
+>  5. Fullfill as following. Test the connection when you put **Docker Host URI** <br>
+
 ![Capture d’écran 2024-09-01 012335](https://github.com/user-attachments/assets/4c07222f-c980-4a2c-b9a5-e65a1d45ba7c)
+![Capture d’écran 2024-09-01 012811](https://github.com/user-attachments/assets/b6fcde82-9a38-4e97-92cd-23f9bc3411c8)
+![Capture d’écran 2024-09-01 013018](https://github.com/user-attachments/assets/5ac216f5-20ef-409b-b379-7a436d26dee8)
+![Capture d’écran 2024-09-01 013224](https://github.com/user-attachments/assets/125af4fb-9d4b-4d60-83eb-90e13e72102a)
+
+> 6. 
 
 
 
